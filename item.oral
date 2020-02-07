@@ -1,0 +1,9 @@
+- Poster Title: A Comprehensive Disiplinary Language for Materials Science
+- developing a langage which can create a structure for unstructured data (CSV)
+- short simple description for data structure
+  * input form definition (e.g. on slide)
+  * output form definition (e.g on slide)
+- without editing original data
+- also can convert to JSON, WL, etc.
+- also can describe a dictionary (without poster)
+- designamted the language "T-form", designamted the parser "tq"
